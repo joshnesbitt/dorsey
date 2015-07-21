@@ -1,5 +1,5 @@
 # Dorsey
 
-A Sinatra-like web framework to illustrate how to build a Sinatra-like web framework.
+A Sinatra-like web framework to illustrate how to build a Sinatra-like web framework (named after Frank Sinatra's right hand man Tommy Dorsey).
 
 This framework was built for workshops during the [ruby bootcamp](https://github.com/Ladtech/ruby-bootcamp) for Sky.
