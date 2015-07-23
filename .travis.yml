@@ -1,0 +1,19 @@
+language: ruby
+
+matrix:
+  fast_finish: true
+
+cache:
+  directories:
+    - vendor/bundle
+
+sudo: false
+
+rvm:
+  - 2.2.2
+
+before_script:
+  - bundle install --path vendor/bundle
+
+script:
+  - bundle exec rspec
