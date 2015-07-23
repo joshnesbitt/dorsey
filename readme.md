@@ -30,3 +30,5 @@ Run the specs with:
 ```
 bundle exec rspec spec/example_spec.rb
 ```
+
+[![Build Status](https://travis-ci.org/joshnesbitt/dorsey.svg?branch=master)](https://travis-ci.org/joshnesbitt/dorsey)
